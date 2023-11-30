@@ -1,0 +1,28 @@
+.news-block .title { 
+    margin-bottom: 40px;
+}
+.news-block .title h3 {
+    font-size: 38px;
+}
+.news-block .date p {
+    font-size: 18px;
+}
+.news-block .date .divider {
+    margin: 10px 0px;
+    width: 184px;
+    height: 1px;
+    background-color: #005F86;
+}
+
+.news-block .news-details {
+    padding-top: 10px;
+    margin-bottom: 40px;
+    width: 488px;
+}
+
+.news-block .news-details a {
+    font-size: 22px;
+    line-height: 32px;
+    text-decoration: underline;
+    color: #D83F22;
+}
