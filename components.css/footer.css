@@ -1,0 +1,29 @@
+
+
+.footer-wrap .col-1 .line{
+    border-top: 1px solid #005F85;
+}
+.footer-wrap .col-2{
+    margin: 29px 0 28px 0;
+}
+.footer-wrap .col-3 .row-1 p{
+    color: #005F85;
+}
+.footer-wrap .col-3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.footer-wrap .col-3 .row-2 ul{
+    list-style-type: none;
+}
+.footer-wrap .col-3 .row-2 li{
+    float: left;
+    color: #D83F22;
+    margin-left: 40px;
+}
+.footer-wrap .col-3 .row-2 li svg{
+    margin-left: 20px;
+}
