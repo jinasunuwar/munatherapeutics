@@ -26,3 +26,7 @@
     text-decoration: underline;
     color: #D83F22;
 }
+
+.news-block .news-details a:hover {
+    color: #083657;
+}
