@@ -1,0 +1,44 @@
+.team-wrap {
+    background-image: url("../images/our-team-background.png");
+    background-repeat: no-repeat;
+    border-radius: 0px 100px;
+    background-size: cover;
+}
+
+.team-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 225px 140px 136px 140px;
+}
+
+.team-wrap .team-img .image {
+    margin-right: 5px;
+}
+
+.team-wrap .team-img .row-1 {
+    display: flex;
+}
+
+.team-wrap .team-img .row-2 {
+    display: flex;
+    margin-left: 192px;
+}
+
+.team-wrap .team-img .row-3 {
+    display: flex;
+    margin-left: 96px;
+}
+
+.team-wrap .team-discription .title h3 {
+    color: #fff;
+    font-size: 38px;
+}
+
+.team-wrap .team-discription .discription p {
+    color: #fff;
+    font-size: 20px;
+}
+.team-wrap .team-discription .discription{
+    margin: 40px 0 50px 0 ;
+}

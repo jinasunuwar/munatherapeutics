@@ -1,0 +1,19 @@
+/* value card Css */
+.background{
+    background-color: #005F86;
+}
+.values-card-wrap {
+    width: 387px;
+    height: 242px;
+    padding: 35px 30px 42px 30px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+.values-card-wrap .title h3{
+    color: #D83F22;
+
+}
+.values-card-wrap .discription p{
+    line-height: 30px;
+    margin-top: 5px;
+}
