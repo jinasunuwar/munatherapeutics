@@ -1,0 +1,29 @@
+.team-details-block .divider {
+    height: 80px;
+    width: 1200px;
+    border-top: 1px solid #005F86;
+    border-radius: 0px 100px 0px 0px;
+    margin-bottom: 60px;
+}
+
+.team-details-block .team-details-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.team-details-block .team-details-wrapper .col-1 .profile-picture{
+    margin-right: 120px;
+}
+
+.team-details-block .team-details-wrapper .col-2 {
+    width: 692px;
+}
+
+.team-details-block .team-details-wrapper .col-2 .name h2{
+    color: #D83F22;
+    margin-bottom: 16px;
+}
+
+.team-details-block .team-details-wrapper .col-2 .description p{
+    margin-top: 40px;
+}
